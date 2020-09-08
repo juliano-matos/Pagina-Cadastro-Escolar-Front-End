@@ -1,7 +1,5 @@
 # Pagina-Cadastro-Escolar-Front-End
 Pagina-Cadastro-Escolar-Front-End
-
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
